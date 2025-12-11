@@ -30,10 +30,12 @@ The lifecycle of AI, from manufacturing to operation, directly impacts three spe
 
 Since the 70s, there has been a frightening 70% Biodiversity collapse:
 
-![Biodiversity Collapse Chart](images/Gemini_Generated_Image_z7ahabz7ahabz7ah (1).png)
+![Biodiversity Collapse Chart](images/Gemini_Generated_Image_z7ahabz7ahabz7ah1.png)
+
 Source: [Our world in data](https://ourworldindata.org/biodiversity)
 
-![CO2 and Greenhouse Gas Emissions](images/Gemini_Generated_Image_z7ahabz7ahabz7ah (2).png)
+![CO2 and Greenhouse Gas Emissions](images/Gemini_Generated_Image_z7ahabz7ahabz7ah2.png)
+
 Source: [Our world in data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions)
 
 ## The Human Cost in Developing Countries
