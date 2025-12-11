@@ -6,7 +6,7 @@ updated: 2025-12-11T16:52
 
 Contrary to the belief that AI is so powerful that what you can do with it is only limited by imagination, it is, in fact, physically limited by the Earth's finite capacity to provide resources and regenerate.
 
-![[images/Gemini_Generated_Image_9o35c39o35c39o35.png]]
+![Planetary Boundaries Framework](images/Gemini_Generated_Image_9o35c39o35c39o35.png)
 
 The physical infrastructure required for Generative AI - datacenters construction, energy consumption, water for cooling, and hardware manufacturing—directly impacts these boundaries.
 
@@ -26,14 +26,14 @@ The [scientific consensus on planetary health](https://www.stockholmresilience.o
 
 The lifecycle of AI, from manufacturing to operation, directly impacts three specific planetary boundaries—Land System Change, Freshwater Use, and Climate Change—which in turn contribute to the collapse of biodiversity.
 
-![[images/Gemini_Generated_Image_z7ahabz7ahabz7ah.png]]
+![Biodiversity Impact](images/Gemini_Generated_Image_z7ahabz7ahabz7ah.png)
 
 Since the 70s, there has been a frightening 70% Biodiversity collapse:
 
-![[images/Gemini_Generated_Image_z7ahabz7ahabz7ah (1).png]]
+![Biodiversity Collapse Chart](images/Gemini_Generated_Image_z7ahabz7ahabz7ah (1).png)
 Source: [Our world in data](https://ourworldindata.org/biodiversity)
 
-![[images/Gemini_Generated_Image_z7ahabz7ahabz7ah (2).png]]
+![CO2 and Greenhouse Gas Emissions](images/Gemini_Generated_Image_z7ahabz7ahabz7ah (2).png)
 Source: [Our world in data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions)
 
 ## The Human Cost in Developing Countries
@@ -95,7 +95,7 @@ Electricity is not an infinite resource; its generation has an immense environme
 
 After a decade where data center energy consumption was relatively flat, we are now entering a period of massive scale-up. The graph below shows that under a "high adoption" scenario for AI, electricity consumption for data centers could increase **9.3 times** from 2023 levels by 2050, reaching a staggering 3,500 TWh.
 
-![[images/Gemini_Generated_Image_i1duagi1duagi1du.png]]
+![Data Center Energy Consumption Projection](images/Gemini_Generated_Image_i1duagi1duagi1du.png)
 
 The argument is clear: we cannot afford to let this massive consumption go unchecked. We must make active, conscious choices about where we allocate our limited energy resources.
 
@@ -105,7 +105,7 @@ If we acknowledge that computing power is a finite resource with a tangible envi
 
 Instead, we should visualize an **Energy Label for AI**, similar to how we rate household appliances, to weigh the energy cost against the societal value of the use case.
 
-![[images/Gemini_Generated_Image_3q8mfy3q8mfy3q8m.png]]
+![Energy Label for AI](images/Gemini_Generated_Image_3q8mfy3q8mfy3q8m.png)
 We must stop conflating all AI with power-hungry Large Language Models (LLMs), which are effectively "Class Z" in energy efficiency.
 
 For many tasks, we don't need a model that "understands" language; we simply need to process data. We should prioritize **discriminative AI** and efficient "Class A" algorithms like **Linear Regression**, **Random Forests**, or **Bernoulli Naive Bayes**. Using a Neural Network when a Decision Tree suffices is an ecological error.
