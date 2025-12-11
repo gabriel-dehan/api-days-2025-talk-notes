@@ -9,9 +9,9 @@ The talk focused on the transition from the "hype" of GenAI to the practical rea
 - **Developer Disappointment:** Many developers approach GenAI expecting immediate, magical results. When the tools fail to deliver perfect code instantly, it leads to disillusionment.
 - **Text vs. Code:** The speaker emphasized that code is fundamentally different from text generation. It requires rigorous maintenance and cannot simply be generated and forgotten.
 
-## Practical Wins 
+## Practical Wins
 
-While complex migrations remain a challenge, BP is successfully leveraging off-the-shelf LLMs to handle repetitive tasks across the productivity lifecycle. 
+While complex migrations remain a challenge, BP is successfully leveraging off-the-shelf LLMs to handle repetitive tasks across the productivity lifecycle.
 
 The current workflow effectively splits labor between AI generation and human validation:
 
@@ -19,7 +19,7 @@ The current workflow effectively splits labor between AI generation and human va
 - **Development & Testing:** Instead of architecting complex systems, the AI focuses on **automating standard code generation**, optimizing performance, and generating test cases to identify vulnerabilities.
 - **The "Human-in-the-Loop" Reality:** The bank’s model (see attached slide) relies heavily on a verification loop: AI generates the draft or code, and developers intervene to validate results, write prompts for complex integrations, and oversee architecture.
 
-![[Gemini_Generated_Image_oth6ceoth6ceoth6.png]]
+![[images/Gemini_Generated_Image_oth6ceoth6ceoth6.png]]
 
 ## Exploring Use Cases
 
@@ -81,4 +81,3 @@ They are shifting focus toward using LLMs for architectural visibility—specifi
 
 - **No Replacement:** The bank stated clearly that they **do not plan to replace developers**.
 - **Trust Issues:** There is not enough "faith" in the current autonomy of AI to let it run unchecked. The focus remains on human-in-the-loop workflows.
-
