@@ -19,7 +19,7 @@ The current workflow effectively splits labor between AI generation and human va
 - **Development & Testing:** Instead of architecting complex systems, the AI focuses on **automating standard code generation**, optimizing performance, and generating test cases to identify vulnerabilities.
 - **The "Human-in-the-Loop" Reality:** The bank’s model (see attached slide) relies heavily on a verification loop: AI generates the draft or code, and developers intervene to validate results, write prompts for complex integrations, and oversee architecture.
 
-![Human-in-the-Loop Workflow Model](images/Gemini_Generated_Image_oth6ceoth6ceoth6.png)
+![Human-in-the-Loop Workflow Model](images/IMG_20251210_115600.jpg)
 
 ## Exploring Use Cases
 
